@@ -5,5 +5,4 @@ plugins {
 
 dependencies {
     myParentConfiguration(project(":child"))
-    myParentConfiguration(project(":child2"))
 }
